@@ -33,7 +33,7 @@ class Mainpage extends Component {
                         this.state.displayedItem == 'Home'? <Homepage/> :
                         this.state.displayedItem == 'About US'? <Aboutpage/>  :
                         this.state.displayedItem == 'Our Services'?  <Services/>  :
-                        this.state.displayedItem == 'Contact Us'?   <Contact/>  :
+                        this.state.displayedItem == 'Contact us'?   <Contact/>  :
                         <Homepage/>
                     }
                 </Card>

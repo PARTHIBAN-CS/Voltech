@@ -3,7 +3,7 @@ var menus = [
    { title : 'Home' , color : 'black' } ,
    { title : 'About US' , color : 'white' } ,
    { title : 'Our Services' , color : 'white' } ,
-   { title : 'Contact Us' , color : 'white' } ,
+   { title : 'Contact us' , color : 'white' } ,
    ]
 class AppBars extends Component {
     constructor(props) {
